@@ -1,0 +1,8 @@
+Lesson 1 Exercises - React Basics, JSX
+Recommended: create a copy of react basics.html to do these exercises.
+1a. Using React, display a button on the website with  the text "Good Job!" inside the button
+1b. Using React, display a paragraph with the text "My name is [NAME]" on the website (replace [NAME] with your name).
+
+My name is Jaya
+
+1c. Create the design on the right and display it in the wevsure using React.
